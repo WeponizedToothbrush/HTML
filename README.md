@@ -1,7 +1,7 @@
 <html>
 <head>my HTML practice
 
-<title>The title of this is Lorem Ipsum
+<title>The <s>title</s> Swag of this is Lorem Ipsum
 
 </title>
 </head>
