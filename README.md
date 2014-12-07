@@ -5,6 +5,7 @@
 
 </title>
 </head>
+<css>
 <style>
 body {
     background-color: #b0c4de;
@@ -26,4 +27,5 @@ Pellentesque magna magna, ullamcorper eu mi ultricies, scelerisque pellentesque 
 
 Generated 5 paragraphs, 579 words, 3850 bytes of Lorem Ipsum
 </p>
+</css>
 </html>
