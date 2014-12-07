@@ -1,6 +1,8 @@
 <html>
 <head>my HTML practice
-<title>THe title of this is Lorem Ipsum
+
+<title>The title of this is Lorem Ipsum
+
 </title>
 </head>
 
