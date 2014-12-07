@@ -11,7 +11,6 @@ body {
 }
 </style>
 <body>
-<style>
 
 <f>Hey<f/>
 </body>
