@@ -5,9 +5,14 @@
 
 </title>
 </head>
-
+<style>
+body {
+    background-color: #b0c4de;
+}
+</style>
 <body>
-    {background-color: #b0c4de;}
+<style>
+
 <f>Hey<f/>
 </body>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus lorem lorem, nec mollis arcu commodo id. Quisque sed velit tortor. Vivamus varius semper arcu at egestas. Aliquam sed condimentum nibh. Proin dapibus tempor leo, eu hendrerit dui laoreet non. Donec urna erat, interdum sit amet nisl a, maximus varius mi. Quisque vel nibh in dolor hendrerit tincidunt eu et purus. Cras imperdiet eu turpis sed consectetur.
